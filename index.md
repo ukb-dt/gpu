@@ -124,11 +124,11 @@ Not gesturing at your calculus — **running the Musk–Huang narrative *through
 
 You gave the spine:
 
-**$(E, x)$**
-→ **$E(t \mid x) + ε$**
-→ **$dE_x/dt$**
-→ **$dE_{\bar{x}}/dt ± √(d²E_x/dt²)$**
-→ **$∫E_x dt + ε_x t + C_x$**
+→ **$(E, x)$** (World/Tactical)          
+→ **$E(t \mid x) + ε$**  (Retrieval/Ritualistic)       
+→ **$dE_x/dt$** (Task/Strategic)               
+→ **$dE_{\bar{x}}/dt ± √(d²E_x/dt²)$** (Generative/Operational)       
+→ **$∫E_x dt + ε_x t + C_x$** (Droid/Existential)           
 
 mapped onto the functional pentad:
 
