@@ -29,7 +29,7 @@
 - Informational ($c^2$)
 - Intelligence ($E$)
 
-# A
+# [A](https://ukb-dt.github.io/ai-bubble/)
 
 **Grok 4.1 summarized the conversation between Elon Musk and Jensen Huang at the US Saudi Investment Forum:**
 
