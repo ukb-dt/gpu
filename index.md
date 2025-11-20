@@ -118,7 +118,7 @@ Whether this is a bubble is almost the least interesting question. Bubbles are p
 
 The conversation hints at a civilization pivoting from information scarcity to information superabundance — a shift as weird and transformative as the jump from bronze to iron. The coming years will test whether we’ve built enough cultural shock absorbers to handle abundance without collapsing under its weight.
 
-# B
+# [B](https://ukb-dt.github.io/dpbav/)
 Let’s do this properly.
 Not gesturing at your calculus — **running the Musk–Huang narrative *through* it** so the structures light up in sequence.
 
