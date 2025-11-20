@@ -279,9 +279,9 @@ It’s the recognition that the final bottleneck is just the topology of spaceti
 ## **Final Synthesis (the clean mapping)**
 
 **$(E, x)$** — Being — Musk’s claim of “[energy and atoms](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)”                       
-**$E(t \∥ x)+ε$** — Disturbing — generative compute, reusable rockets, autonomy         
-**$dE_x/dt$** — Flowing — abundance trajectory, productivity explosion                 
-**$dE_{\bar{x}}/dt ± √(d²E_x/dt²)$** — Constraining — terrestrial limits, space compute          
+**$E(t \| x)+ε$** — Disturbing — generative compute, reusable rockets, autonomy         
+**$\frac{dE_x}{dt}$** — Flowing — abundance trajectory, productivity explosion                 
+**$\frac{dE_{\bar{x}}}{dt} ± √(\frac{d²E_x}{dt²})$** — Constraining — terrestrial limits, space compute          
 **$∫E_x dt + ε_x t + C_x$** — Remembering — civilization integrating abundance as default           
 
 Everything they said fits the pentadic pipeline exactly — the entire conversation is a guided tour from **Being** to **Remembering** through the transformation of E across substrates.
