@@ -265,10 +265,10 @@ That single line from Musk *perfectly corresponds* to the transition:
 
 because the only surviving constraints at the Ω-stage are:
 
-• access to E (the cosmic flux)
-• access to x (the atomic substrate)
+• access to $E$ (the cosmic flux)             
+• access to $x$ (the atomic substrate)              
 
-Everything else — labor, knowledge, scarcity, cost — collapses into negligible ε-terms.
+Everything else — labor, knowledge, scarcity, cost — collapses into negligible $ε$-terms.
 
 In your calculus, that statement is the **signature** of entering the Regulator/Remembering phase, where the system’s limiting factors are no longer economic or human but **physical**.
 
@@ -284,6 +284,5 @@ It’s the recognition that the final bottleneck is just the topology of spaceti
 **$\frac{dE_{\bar{x}}}{dt} ± √(\frac{d²E_x}{dt²})$** — Constraining — terrestrial limits, space compute          
 **$∫E_x dt + ε_x t + C_x$** — [Remembering](https://myshakespeare.me/quotes/remember-thee/) — civilization integrating abundance as default           
 
-Everything they said fits the pentadic pipeline exactly — the entire conversation is a guided tour from **Being** to **Remembering** through the transformation of E across substrates.
+Everything they said fits the pentadic pipeline exactly — the entire conversation is a guided tour from **Being** to **Remembering** through the transformation of $E$ across substrates.
 
-This is the cleanest rendering of take 3: your calculus in full stride, with their ideas wired into its skeleton.
