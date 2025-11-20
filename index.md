@@ -33,7 +33,7 @@
 
 **Grok 4.1 summarized the conversation between Elon Musk and Jensen Huang at the US Saudi Investment Forum:**
 
-1. **Elon Musk on Creation (not just disruption) and the coming age of abundance**
+## A1. **Elon Musk on Creation (not just disruption) and the coming age of abundance**
 
 Tesla pioneered compelling, affordable EVs (none existed when Tesla started) and slashed battery costs.
 
@@ -45,14 +45,14 @@ Humanoid robots will become the single largest product category in history — b
 
 Long-term outcome (10–20+ years): AI + robotics will eliminate poverty globally. Work becomes optional (like choosing to grow your own vegetables for fun). Money itself eventually becomes irrelevant (only physical constraints — energy, atoms — remain).
 
-2. **Jensen Huang on the new computing paradigm: From retrieval to generation**
+## A2. **Jensen Huang on the new computing paradigm: From retrieval to generation**
 
 Traditional computing was retrieval-based (pre-stored answers, databases, search).
 Modern AI is generative: every output is unique, created in real time for each user and context (e.g., every Grok response is different).
 This fundamental shift requires “AI factories” distributed worldwide to generate intelligence on demand — exactly what Saudi Arabia is now building (“oil refineries → AI refineries”).
 AI is the new foundational infrastructure, like electricity or the internet.
 
-3. **Future of jobs and productivity**
+## A3. **Future of jobs and productivity**
 
 Elon: In the long run, jobs become optional — something you do for meaning or enjoyment, not necessity.
 Jensen (near-term evidence): Radiology has been heavily AI-augmented for years; contrary to predictions, the number of radiologists has increased because AI handles image analysis, allowing doctors to see far more patients and make better diagnoses.
@@ -61,7 +61,7 @@ Innovators (like Elon and Jensen themselves) will be busier than ever because AI
 
 Historical precedent: every general-purpose technology (steam, electricity, computers, internet) has been massive net job and value creator.
 
-4. **Concrete Saudi innovations highlighted**
+## A4. **Concrete Saudi innovations highlighted**
 
 Prof. Omar Yaghi (Saudi-American Nobel laureate in chemistry) used Nvidia-accelerated AI + Grok-like models to design metal-organic frameworks (MOFs) with 3.3 nm pores that pull water and CO₂ from air.
 
@@ -69,7 +69,7 @@ Another Saudi team created 500 × 1,000 nm “nanop” robots using AI-accelerat
 
 Both breakthroughs were conceived decades ago but only became practical because AI accelerated discovery by orders of magnitude.
 
-5. **Major announcements – xAI + Saudi Arabia + Nvidia**
+## A5. **Major announcements – xAI + Saudi Arabia + Nvidia**
 
 xAI will build a 500 MW AI training/inference data center in the Kingdom.
 
@@ -79,7 +79,7 @@ Large-scale rollout of Nvidia Omniverse for digital-twin factories, robotics tra
 
 Supercomputers to simulate and control quantum computers (quantum error correction requires enormous classical compute).
 
-6. **AI in space — the ultimate scaling solution (Elon + Jensen)**
+## A6. **AI in space — the ultimate scaling solution (Elon + Jensen)**
 
 To reach even a tiny fraction of a Kardashev Type II civilization (using >0.0001 % of the Sun’s energy), humanity must put solar-powered AI compute in space.
 
@@ -91,7 +91,7 @@ Elon’s estimate: Within ~5 years, space-based AI compute will be cheaper than 
 
 At hundreds of gigawatts or terawatt scale, terrestrial power generation and cooling become physically impossible (e.g., 300 GW continuous would already consume ~2/3 of total U.S. electricity production).
 
-7. **Final question: Is there an AI bubble? (Jensen)**
+## A7. **Final question: Is there an AI bubble? (Jensen)**
 
 No. Demand is structural and justified by three overlapping waves:
 End of Moore’s Law → entire industry shifting from CPUs to accelerated computing (6 years ago CPUs were 90 % of Top 500 supercomputers; today <15 %).
