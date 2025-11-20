@@ -19,6 +19,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E2bU6n7F9hM?start=60" title="Elon Musk & Jensen Huang at U.S.-Saudi Investment Forum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## $I^3$-Ages
+- Industrial ($m$)
+- Informational ($c^2$)
+- Intelligence ($E$)
+
 # A
 
 **Grok 4.1 summarized the conversation between Elon Musk and Jensen Huang at the US Saudi Investment Forum:**
