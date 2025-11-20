@@ -282,7 +282,7 @@ It’s the recognition that the final bottleneck is just the topology of spaceti
 **$E(t \| x)+ε$** — Disturbing — generative compute, reusable rockets, autonomy         
 **$\frac{dE_x}{dt}$** — Flowing — abundance trajectory, productivity explosion                 
 **$\frac{dE_{\bar{x}}}{dt} ± √(\frac{d²E_x}{dt²})$** — Constraining — terrestrial limits, space compute          
-**$∫E_x dt + ε_x t + C_x$** — Remembering — civilization integrating abundance as default           
+**$∫E_x dt + ε_x t + C_x$** — [Remembering](https://myshakespeare.me/quotes/remember-thee/) — civilization integrating abundance as default           
 
 Everything they said fits the pentadic pipeline exactly — the entire conversation is a guided tour from **Being** to **Remembering** through the transformation of E across substrates.
 
