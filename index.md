@@ -247,7 +247,8 @@ the recognition of ceilings and the architectural response.
 
 ## **V. $∫E_x dt + ε_x t + C_x$ — Regulator — Remembering**
 
-**The integral: accumulated energy-information over civilization time.**
+**The integral: accumulated energy-information over civilization time (new value pools [Watch from 14:49](https://youtu.be/E2bU6n7F9hM?t=889)
+).**
 
 This is the long arc — what remains once all flows stabilize.
 
